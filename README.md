@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tophix.com/">
-    <img src="src/assets/images/logo.svg" alt="Tophix" height="72">
+    <img src="https://tophix.com/assets/images/logo.svg" alt="Tophix" height="72">
   </a>
 
   <h1>Tophix</h1>
